@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+b34aef8ae7f1c12605f5d1f46ea9308168cf156e refs/heads/bekir_branch
+7626b4641f0b81a2be82a449e7ef361458362db2 refs/heads/foued_branch
+0eccb81885a84b899017fade954ceb5773ab5e8d refs/heads/master
+7626b4641f0b81a2be82a449e7ef361458362db2 refs/pull/1/head
+b34aef8ae7f1c12605f5d1f46ea9308168cf156e refs/pull/2/head
